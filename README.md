@@ -12,6 +12,7 @@
       src="https://img.shields.io/badge/SPONSORS-brightgreen.svg?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
 </p>
+
 > This project is developed with vite and vue3. Those are frameworks which provide better behavior and performance under the support of node.js.
 ## How to run this locally
 ### Preparation for node.js:
