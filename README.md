@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://game.lkx666.cn">
-    <img src="src/assets/logo.jpg" height="256">
+    <img src="logo.jpg" height="256">
   </a>
   <a href="https://game.lkx666.cn">
     <h1 align="center">Games in Old Memories</h1>
